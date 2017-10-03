@@ -11,5 +11,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         // another changes
         // anoter changes2
+        //some changes
+        //some changes2
     }
 }
